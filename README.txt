@@ -1,2 +1,1 @@
-I was able to implement all features.
-To test the provider's textual view, use providerText as the -in argument
+This is an MVC based animation program. Based on the users input, it can either textually render an animation, output it to an SVG file, or visualize it with Java swing with or without interactive controls. All the code in the Provider folder is not mine. These were given to me by another group working on the same project. To demonstrate the flexibility of the model I designed, I made my code work with a user provided textual view and their interactive swing view. 
